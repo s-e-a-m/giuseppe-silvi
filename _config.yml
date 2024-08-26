@@ -14,16 +14,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: SEAM
-email: ciccio@pizza.it
+email: grammaton@me.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 url: https://s-e-a-m.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl: "/ciccio-pizza" # the subpath of your site, e.g. "/blog"
-repository: "S-E-A-M/ciccio-pizza"
-twitter_username: username
-github_username: username
+baseurl: "/giuseppe-silvi" # the subpath of your site, e.g. "/blog"
+repository: "S-E-A-M/giuseppe-silvi"
+twitter_username: giuseppesilvi
+github_username: grammaton
 minimal_mistakes_skin: dark
 search: true
 
@@ -61,35 +61,29 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Ciccio Pizza"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Giuseppe Silvi"
+  avatar : "/assets/images/gs.jpg"
+  bio    : "Vivere è stare svegli."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://l-e-a-p.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/giuseppesilvi"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/grammaton"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/giuseppesilvi"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
-
+      url: "https://github.com/grammaton"
+    
 defaults:
   # _posts
   - scope:
